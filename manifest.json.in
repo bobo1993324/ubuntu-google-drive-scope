@@ -1,0 +1,17 @@
+{
+    "architecture": "@CLICK_ARCH@",
+    "description": "A simple Unity scope that accesses the network",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "googledrivescope": {
+            "apparmor": "googledrivescope.apparmor",
+            "scope": "googledrivescope",
+            "account-application": "app.application",
+            "account-service": "app.service"
+        }
+    },
+    "maintainer": "Boren Zhang <bobo1993324@gmail.com>",
+    "name": "com.ubuntu.developer.bobo1993324.googledrivescope",
+    "title": "googledrivescope",
+    "version": "0.1"
+}

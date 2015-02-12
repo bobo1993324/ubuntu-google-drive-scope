@@ -1,0 +1,7 @@
+<application>
+    <services>
+        <service id="com.ubuntu.developer.bobo1993324.googledrivescope_googledrivescope">
+            <description>Search google drive files</description>
+        </service>
+    </services>
+</application>

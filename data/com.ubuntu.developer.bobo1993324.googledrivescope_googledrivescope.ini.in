@@ -1,0 +1,10 @@
+[ScopeConfig]
+_DisplayName=GoogleDriveScope Scope
+_Description=This is a GoogleDriveScope scope
+Art=screenshot.png
+Author=Firstname Lastname
+Icon=icon.png
+
+[Appearance]
+PageHeader.Logo=logo.png
+
